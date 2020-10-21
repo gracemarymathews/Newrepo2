@@ -1,0 +1,13 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is C20C-D498
+
+ Directory of C:\Users\TibiTom\Desktop\Gitpractice
+
+21-10-2020  17:58    <DIR>          .
+21-10-2020  17:58    <DIR>          ..
+05-06-2020  13:01                27 Grace.txt
+05-06-2020  13:00             8,687 test1.odt
+21-10-2020  17:58                 0 test2.txt
+05-06-2020  13:23                 0 testingdoc.txt
+               4 File(s)          8,714 bytes
+               2 Dir(s)  140,708,364,288 bytes free
